@@ -1,4 +1,4 @@
-# 🔬 Golden Edge ORCID Portfolio
+# 🔬 ORCID 
 
 <div align="center">
 
