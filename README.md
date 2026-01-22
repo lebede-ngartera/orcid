@@ -1,49 +1,52 @@
 # Lebede Ngartera
 
 **Ph.D. in Applied Mathematics**  
-Research Scientist in Machine Learning and Artificial Intelligence  
+AI Strategist & Research Scientist  
+Founder, **TeraSystemsAI**  
 ORCID: https://orcid.org/0000-0003-0561-1305  
 
 ---
 
 ## Overview
 
-This repository serves as a structured academic profile linked to my **ORCID record** and peer-reviewed publications. It documents my research focus, methodological approach, and selected scholarly outputs in **applied mathematics, machine learning, and artificial intelligence**.
+This repository serves as a curated research and technical profile linked to my **ORCID record** and peer-reviewed publications. It documents my research focus, methodological approach, and selected scholarly outputs in **applied mathematics, machine learning, and artificial intelligence**, alongside applied implementations developed through **TeraSystemsAI**.
 
-My work concentrates on the development and evaluation of **probabilistic and risk-aware machine learning models**, with particular emphasis on **uncertainty quantification, robustness, and deployment in real-world settings**. Application domains include healthcare decision support, cybersecurity and fraud detection, autonomous systems, and enterprise analytics.
+My work concentrates on the design and evaluation of **probabilistic and risk-aware machine learning systems**, with emphasis on **uncertainty quantification, robustness, and real-world deployment constraints**. Application domains include healthcare decision support, cybersecurity and fraud detection, autonomous systems, and enterprise analytics.
 
-All publication metadata referenced here is verifiable through ORCID and publisher records (IEEE, Frontiers, MDPI, and related indexing services).
+All publication metadata referenced here is verifiable through ORCID and official publisher records (IEEE, Frontiers, MDPI, and related indexing services).
 
 ---
 
-## Academic Profile
+## Academic and Research Status
 
 - **Name:** Lebede Ngartera  
 - **Degree:** Ph.D. in Applied Mathematics  
-- **Primary Affiliation:** Department of Mathematics, University of Ndjamena, Chad  
+- **Research Status:** Independent Researcher  
+- **Organization:** TeraSystemsAI  
 - **ORCID:** 0000-0003-0561-1305  
-- **Research Period:** 2020–present  
+- **Research Period:** 2015–present  
+
+I conduct independent research and applied AI system development through **TeraSystemsAI**. I do not hold a current academic appointment. Institutional affiliations appearing in individual publications reflect the context at the time of submission and do not represent ongoing institutional support or employment.
 
 ---
 
 ## Research Focus
 
-My research addresses the gap between **theoretical machine learning models** and their **behavior under real operational constraints**. In particular, I focus on:
+My research addresses the gap between **theoretical machine learning models** and their **behavior under operational constraints**. Core areas of focus include:
 
-- Explicit modeling of predictive uncertainty  
+- Explicit modeling and communication of predictive uncertainty  
 - Robust evaluation under data imbalance and distribution shift  
 - Interpretability and transparency in statistical learning systems  
 - Risk-aware decision support in high-stakes and regulated environments  
 
-The overarching objective is to design models whose limitations and failure modes are **observable, measurable, and auditable**, rather than implicit.
+The overarching objective is to design models whose assumptions, limitations, and failure modes are **observable, measurable, and auditable**, rather than implicit.
 
 ---
 
 ## Areas of Expertise
 
 ### Machine Learning and Artificial Intelligence
-- Bayesian neural networks  
-- Probabilistic deep learning  
+- Bayesian neural networks and probabilistic deep learning  
 - Classical supervised learning (logistic regression, tree-based models, ensembles)  
 - Model calibration and uncertainty estimation  
 - Natural language processing and retrieval-augmented systems  
@@ -57,7 +60,7 @@ The overarching objective is to design models whose limitations and failure mode
 ### Systems and Reproducibility
 - End-to-end machine learning pipelines  
 - Reproducible experimentation and versioned artifacts  
-- Model monitoring and drift awareness  
+- Model monitoring, drift awareness, and failure analysis  
 - Evaluation beyond single-metric benchmarks  
 
 ---
@@ -106,9 +109,9 @@ Metrics are derived from publisher dashboards and ORCID-linked records and may v
 
 ## Research Philosophy
 
-I approach machine learning systems as **statistical and computational constructs that must be evaluated under uncertainty**, rather than as benchmark-optimized artifacts.
+I approach machine learning systems as **statistical and computational constructs evaluated under uncertainty**, not as benchmark-optimized artifacts.
 
-Key principles guiding my work include:
+Guiding principles:
 - Explicit uncertainty representation  
 - Transparent modeling assumptions  
 - Robust, context-aware evaluation  
@@ -116,7 +119,7 @@ Key principles guiding my work include:
 
 ---
 
-## Contact and Academic Profiles
+## Contact and Professional Profiles
 
 - **ORCID:** https://orcid.org/0000-0003-0561-1305  
 - **LinkedIn:** https://www.linkedin.com/in/lebede-ngartera-82429343/  
