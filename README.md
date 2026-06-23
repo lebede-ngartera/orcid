@@ -26,7 +26,7 @@ All publication metadata referenced here is verifiable through ORCID and officia
 - **ORCID:** 0000-0003-0561-1305  
 - **Research Period:** 2015–present  
 
-I conduct independent research and applied AI system development through **TeraSystemsAI**. I do not hold a current academic appointment. Institutional affiliations appearing in individual publications reflect the context at the time of submission and do not represent ongoing institutional support or employment.
+I conduct independent scientific research and applied AI system development through TeraSystemsAI LLC. I do not currently hold an academic appointment. Institutional affiliations listed in individual publications reflect the context at the time of submission and should not be interpreted as ongoing institutional support, endorsement, or employment.
 
 ---
 
